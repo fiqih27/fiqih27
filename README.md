@@ -21,6 +21,10 @@
 fiqih27@lampung:~$ whoami
 Fiqih Kurniadi, IT enthusiast dari Lampung
 
+Education:
+SLTA [SMK N 1 CANDIPURO]-[89]
+S1 [ILMU KOMPUTER UNIVERSITAS MUHAMMADIYAH METRO]-[3.80 CUMLAUDE]
+
 fiqih27@lampung:~$ cat fokus.txt
 web        bangun website yang cepat, rapi, dan siap produksi
 server     deploy, konfigurasi, dan jaga layanan tetap hidup
