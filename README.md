@@ -21,7 +21,7 @@
 fiqih27@lampung:~$ whoami
 Fiqih Kurniadi, IT enthusiast dari Lampung
 
-Education:
+fiqih27@lampung:~$ cat education.txt
 SLTA [SMK N 1 CANDIPURO]-[89]
 S1 [ILMU KOMPUTER UNIVERSITAS MUHAMMADIYAH METRO]-[3.80 CUMLAUDE]
 
