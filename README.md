@@ -34,26 +34,7 @@ fiqih27@lampung:~$ cat prinsip.txt
 Setiap baris code menuntun imajinasi menemukan bentuknya.
 ```
 
-<img src="./assets/divider.svg" width="100%" alt="">
 
-## Tech stack
-
-<img src="./assets/stack.svg" width="100%" alt="Tech stack: web, server, hardware">
-
-<img src="./assets/divider.svg" width="100%" alt="">
-
-## Cara kerja
-
-```mermaid
-flowchart LR
-    A[Ide] --> B[Code]
-    B --> C[Deploy ke server]
-    C --> D[Monitor]
-    D --> E[Perbaiki]
-    E --> B
-```
-
-<img src="./assets/divider.svg" width="100%" alt="">
 
 ## Aktivitas
 
