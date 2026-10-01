@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://portfoliofiqih.vercel.app"><img src="https://img.shields.io/badge/PORTOFOLIO-portfoliofiqih.vercel.app-22d3ee?style=for-the-badge&labelColor=0b1118" alt="Portofolio"></a>
-<a href="mailto:fiqihkurniadi2003@gmail.com"><img src="https://img.shields.io/badge/EMAIL-fiqihkurniadi2003-ff6a1a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1118" alt="Email"></a>
+<a href="mailto:fiqihkurniadi2003@gmail.com"><img src="https://img.shields.io/badge/EMAIL-fiqihkurniadi2003@gmail.com-ff6a1a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1118" alt="Email"></a>
 
 <br><br>
 
