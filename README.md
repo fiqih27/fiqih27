@@ -9,7 +9,6 @@
 
 <br><br>
 
-<img src="./assets/typing.svg" width="720" alt="Web Developer yang rapi dan cepat. Server dan Linux: deploy, atur, jaga. Hardware: rakit, upgrade, troubleshoot. Setiap baris code menuntun imajinasi.">
 
 </div>
 
