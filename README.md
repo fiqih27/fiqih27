@@ -42,12 +42,14 @@
            masalah sampai akarnya
 ```
 
-> **Setiap baris code menuntun imajinasi menemukan bentuknya.**
 
 <div align="center"><img src="./assets/h-stack.svg" width="480" alt="Tech stack"></div>
 
 <div align="center">
 <img src="./assets/stack.svg" width="560" alt="Tech stack: web, server, hardware">
+</div>
+
+<div>
 </div>
 
 <div align="center"><img src="./assets/h-activity.svg" width="480" alt="Aktivitas"></div>
