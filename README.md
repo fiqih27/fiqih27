@@ -4,12 +4,12 @@
 
 <br>
 
-<a href="https://portfoliofiqih.vercel.app"><img src="https://img.shields.io/badge/PORTOFOLIO-portfoliofiqih.vercel.app-ff7eb6?style=for-the-badge&labelColor=1a1033" alt="Portofolio"></a>
-<a href="mailto:fiqihkurniadi2003@gmail.com"><img src="https://img.shields.io/badge/EMAIL-fiqihkurniadi2003-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1033" alt="Email"></a>
+<a href="https://portfoliofiqih.vercel.app"><img src="https://img.shields.io/badge/PORTOFOLIO-portfoliofiqih.vercel.app-ff4d8d?style=for-the-badge&labelColor=0e0e12" alt="Portofolio"></a>
+<a href="mailto:fiqihkurniadi2003@gmail.com"><img src="https://img.shields.io/badge/EMAIL-fiqihkurniadi2003-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0e0e12" alt="Email"></a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FF7EB6&center=true&vCenter=true&width=460&height=44&lines=Web+Developer+yang+rapi+dan+cepat;Server+%26+Linux%3A+deploy%2C+atur%2C+jaga;Hardware%3A+rakit%2C+upgrade%2C+troubleshoot;Setiap+baris+code+menuntun+imajinasi" width="460" alt="Animasi teks">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FF4D8D&center=true&vCenter=true&width=460&height=44&lines=Web+Developer+yang+rapi+dan+cepat;Server+%26+Linux%3A+deploy%2C+atur%2C+jaga;Hardware%3A+rakit%2C+upgrade%2C+troubleshoot;Setiap+baris+code+menuntun+imajinasi" width="460" alt="Animasi teks">
 
 </div>
 
@@ -43,10 +43,10 @@ hardware rakit, upgrade, bongkar
 
 <table align="center">
 <tr>
-<td align="center" width="25%"><img src="./assets/characters/fiqih.png" width="100%" alt="Fiqih"><br><sub><b>Fiqih</b><br>dev</sub></td>
-<td align="center" width="25%"><img src="./assets/characters/sakura.png" width="100%" alt="Sakura"><br><sub><b>Sakura</b><br>frontend</sub></td>
-<td align="center" width="25%"><img src="./assets/characters/luna.png" width="100%" alt="Luna"><br><sub><b>Luna</b><br>design</sub></td>
-<td align="center" width="25%"><img src="./assets/characters/aoi.png" width="100%" alt="Aoi"><br><sub><b>Aoi</b><br>server</sub></td>
+<td align="center" width="25%"><img src="./assets/characters/fiqih_smile.png" width="100%" alt="Senyum"><br><sub>santai</sub></td>
+<td align="center" width="25%"><img src="./assets/characters/fiqih_happy.png" width="100%" alt="Senang"><br><sub>deploy sukses</sub></td>
+<td align="center" width="25%"><img src="./assets/characters/fiqih_shock.png" width="100%" alt="Kaget"><br><sub>server down</sub></td>
+<td align="center" width="25%"><img src="./assets/characters/fiqih_smug.png" width="100%" alt="Songong"><br><sub>bug beres</sub></td>
 </tr>
 </table>
 
@@ -64,10 +64,10 @@ hardware rakit, upgrade, bongkar
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=fiqih27&show_icons=true&hide_border=true&bg_color=1a1033&title_color=ff7eb6&icon_color=a78bfa&text_color=e9e3ff&count_private=true" width="400" alt="Statistik GitHub">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqih27&layout=compact&hide_border=true&bg_color=1a1033&title_color=ff7eb6&text_color=e9e3ff" width="400" alt="Bahasa teratas">
+<img src="https://github-readme-stats.vercel.app/api?username=fiqih27&show_icons=true&hide_border=true&bg_color=0e0e12&title_color=ff4d8d&icon_color=ffffff&text_color=e6e6ee&count_private=true" width="400" alt="Statistik GitHub">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqih27&layout=compact&hide_border=true&bg_color=0e0e12&title_color=ff4d8d&text_color=e6e6ee" width="400" alt="Bahasa teratas">
 
-<img src="https://streak-stats.demolab.com?user=fiqih27&hide_border=true&background=1a1033&ring=ff7eb6&fire=ffb86b&currStreakLabel=ff7eb6&currStreakNum=ffffff&sideLabels=e9e3ff&sideNums=ffffff&dates=cbb8ff" width="400" alt="Streak">
+<img src="https://streak-stats.demolab.com?user=fiqih27&hide_border=true&background=0e0e12&ring=ff4d8d&fire=ff4d8d&currStreakLabel=ff4d8d&currStreakNum=ffffff&sideLabels=e6e6ee&sideNums=ffffff&dates=c9c9d4" width="400" alt="Streak">
 
 <br><br>
 
